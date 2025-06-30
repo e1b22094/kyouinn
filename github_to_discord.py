@@ -4,7 +4,7 @@ from flask import Flask, request
 import requests
 
 # ✅ DiscordのWebhook URLを貼り付けてください
-DISCORD_WEBHOOK_URL = "https://discordapp.com/api/webhooks/1389091790774075483/x4fAwsn3IWahIR5ZqtMxMHRyRAqt4dXHqhEiV2esj38XN5bENx_mpAw30ALluenolucB"
+DISCORD_WEBHOOK_URL = ""
 
 app = Flask(__name__)
 
